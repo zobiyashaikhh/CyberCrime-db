@@ -1,10 +1,10 @@
-# 🚔 CyberCrime Evidence Database Management System
+#  CyberCrime Evidence Database Management System
 
 A relational database management system built using **MySQL** to simulate how a cybercrime investigation department manages cases, suspects, seized devices, digital evidence, and forensic investigations.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The CyberCrime Evidence Database Management System is designed to help investigators securely organize and manage digital forensic investigations. It stores information about cybercrime cases, assigned officers, suspects, seized devices, digital evidence, chain of custody, and investigation logs.
 
@@ -12,7 +12,7 @@ The project demonstrates database design, relational modelling, SQL querying, an
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Store cybercrime investigation records.
 - Maintain relationships between cases, officers, suspects, and evidence.
@@ -22,7 +22,7 @@ The project demonstrates database design, relational modelling, SQL querying, an
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - MySQL 8.0
 - MySQL Workbench
@@ -47,7 +47,7 @@ The project consists of **7 relational tables**:
 
 ---
 
-## 🔗 Entity Relationships
+##  Entity Relationships
 
 - One Officer manages multiple Cases.
 - One Case can have multiple Suspects.
@@ -58,7 +58,7 @@ The project consists of **7 relational tables**:
 
 ---
 
-## ✨ Features
+##  Features
 
 - Manage cybercrime cases
 - Track suspects
@@ -70,7 +70,7 @@ The project consists of **7 relational tables**:
 
 ---
 
-## 📊 SQL Concepts Used
+##  SQL Concepts Used
 
 - CREATE DATABASE
 - CREATE TABLE
@@ -108,7 +108,7 @@ CyberCrime-Evidence-DB/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Add screenshots of:
 
@@ -119,7 +119,7 @@ Add screenshots of:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Add stored procedures
 - Add triggers
@@ -130,7 +130,7 @@ Add screenshots of:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Zobiya Shaikh**
 
